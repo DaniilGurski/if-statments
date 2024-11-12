@@ -1,0 +1,14 @@
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\bin\Debug\net8.0\if-statments.exe
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\bin\Debug\net8.0\if-statments.deps.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\bin\Debug\net8.0\if-statments.runtimeconfig.json
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\bin\Debug\net8.0\if-statments.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\bin\Debug\net8.0\if-statments.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.AssemblyInfoInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.AssemblyInfo.cs
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.csproj.CoreCompileInputs.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\refint\if-statments.dll
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.pdb
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\if-statments.genruntimeconfig.cache
+c:\Users\daniil.gurski\Desktop\school\prog.2\c-sharp-basics\if-statments\obj\Debug\net8.0\ref\if-statments.dll
